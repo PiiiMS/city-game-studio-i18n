@@ -417,7 +417,7 @@ fr:
   LABEL_GAME_ENGINE_3D_32BITCOLOR: Graphismes 3D couleurs 32 bits
   LABEL_GAME_ENGINE_VR_32BITCOLOR: Réalité virtuelle
   LABEL_GAME_ENGINE_VOXEL_32BITCOLOR: Graphismes Voxel
-  LABEL_GAME_ENGINE_BASIC_DIALOG: Simples dialogues
+  LABEL_GAME_ENGINE_BASIC_DIALOG: Dialogues simplistes
   LABEL_GAME_ENGINE_INTERACTIVE_DIALOG: Dialogues interactifs
   LABEL_GAME_ENGINE_AI_GENERATED_DIALOG: Dialogues générés par une IA
   LABEL_GAME_ENGINE_JOYSTICK: Support des joystick
@@ -438,7 +438,7 @@ fr:
   LABEL_GAME_ENGINE_INTERACTIVE_MUSIC: Musique interactive
   LABEL_GAME_ENGINE_PASSWORD_SAVE: Sauvegarde par mot de passe
   LABEL_GAME_ENGINE_BASIC_SAVE: Sauvegarde
-  LABEL_GAME_ENGINE_CLOUD_SAVE: Sauvegarde nuagique
+  LABEL_GAME_ENGINE_CLOUD_SAVE: Sauvegarde en ligne
   LABEL_GAME_ENGINE_BASIC_PHYSICS: Physique basique
   LABEL_GAME_ENGINE_ADVANCED_PHYSICS: Physique avancée
   LABEL_GAME_ENGINE_REALISTIC_PHYSICS: Physique réaliste
@@ -642,7 +642,7 @@ fr:
   LABEL_USE_MOUSE_TO_MOVE_SCREEN: >
     Bouger l'écran avec la souris
   LABEL_WEEK: Semaines
-  LABEL_TOOLS: Fait grâce
+  LABEL_TOOLS: Outils
   LABEL_SANDBOX: Mode bac à sable
   LABEL_SAVING: Sauvegarde en cours
   LABEL_PROPOSAL_MIN_NOTE_FAILED_TITLE: Dédommagements
@@ -906,7 +906,7 @@ fr:
   LABEL_TYPE_BUILDING: Type
   LABEL_CHARACTERS: Personnages
   LABEL_COMPANY_NAME: Nom de la compagnie
-  LABEL_CUTSCENES: Scènes coupées
+  LABEL_CUTSCENES: Cinématiques
   LABEL_CURRENCY: Argent
   LABEL_DESIGN: Design
   LABEL_DEVELOPMENT: Développement
@@ -975,10 +975,10 @@ fr:
   LABEL_CAPACITY_MODDING_FEATURE: >
     Avec l'explosion d'Internet, vos fans vont vouloir apporter des modifications aux jeux vidéo que vous créez, vous devez maintenant gérer le modding
   LABEL_CAPACITY_CUTSCENES_FEATURE: >
-    Certains succès du monde des jeux vidéo viennent directement du monde du cinéma.
-    Afin d'être plus immersif, le monde du jeu vidéo veut désormais des scènes coupées
+    Certains succès du monde des jeux vidéos viennent directement du monde du cinéma.
+    Afin d'être plus immersif, le monde du jeu vidéo veut désormais des cinématiques.
   LABEL_CAPACITY_TUTORIEL_FEATURE: >
-    Jouer a un nouveau jeu, c'est aussi apprendre à jouer à un nouveau jeu.
+    Jouer à un nouveau jeu, c'est aussi apprendre à jouer à un nouveau jeu.
     Cela peut s'avérer ardu et c'est la tâche qui vous est confiée, vous devez maintenant gérer les tutoriels pour vos créations
   LABEL_THEME_MOVIE_ADAPTATION: Adaptation de film
   LABEL_THEME_PREHISTORY: Préhistoire
@@ -1646,7 +1646,7 @@ fr:
   TOOLTIP_POSTMORTEM_RED_ZONE: |
     La zone bleue correspond à ce que vous avez appris en faisant des post-mortems.
     En sortant de la zone bleue vous prenez le risque d'avoir un jeu qui n'est pas équilibré,
-    et d'avoir de mauvaises revues.
+    et d'avoir de mauvaises notes.
 
   # Showd when game is loading
   LOADING_SCREEN_TIP_0: >
@@ -1700,8 +1700,8 @@ fr:
   MARKETING_CAMPAIGN_MAGAZINE: Campagne publicitaire dans la presse
   MARKETING_CAMPAIGN_TV: Campagne publicitaire télévisuelle
   MARKETING_CAMPAIGN_INTERNET: Campagne publicitaire en ligne
-  CONCURRENT_STUDIOS_LIST: Lister les compétiteurs
-  CONCURRENT_STUDIOS_BUY: Racheter les compétiteurs
+  CONCURRENT_STUDIOS_LIST: Lister les concurrents
+  CONCURRENT_STUDIOS_BUY: Racheter les concurrents
   FURNITURES_COMMON_BUY: Acheter des meubles
   EMPLOYEES_HIRE: Engager du personnel
   STUDIO_RENT: Louer un studio
@@ -1719,7 +1719,7 @@ fr:
   USERINTERFACE: Interface utilisateur
   NETWORK: Réseau
   MODDING: Modding
-  CUTSCENES: Scènes coupées
+  CUTSCENES: Cinématiques
   TUTORIEL: Tutoriels
   MARKETING_CAMPAIGN_SOCIALNETWORK: Campagne publicitaire ciblée
   MARKETING_CAMPAIGN_MAILINGLIST: Campagne publicitaire par courriel
